@@ -1,7 +1,6 @@
 # CS550-MiniShell
 
 Name: Kewal Bhanudas Gulve
-B NO: B00763964
 
 Steps:
 1. Extract all the contents of the .zip file.
